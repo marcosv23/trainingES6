@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"]
+  //para entender qual é o amb de desenvolvimento
+  //para conversão
+}
